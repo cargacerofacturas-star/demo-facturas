@@ -78,7 +78,7 @@ st.download_button("⬇️ Descargar Excel", a_excel(comps), file_name="facturas
                    mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
                    type="primary")
 
-st.caption("¿Querés probarlo con tus facturas reales? Escribinos: [TU EMAIL]")
+st.caption("¿Querés probarlo con tus facturas reales? Escribinos a cargacero.facturas@gmail.com")
 
 # --- detalle
 st.subheader("Detalle por comprobante")
